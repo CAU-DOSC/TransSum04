@@ -2,8 +2,10 @@ TransSum04
 ===========
 
 * The Cathedral and the Bazaar
-* Use Word or any text editor
+* Use any text editor
 * File format must be `pages.txt` or `pages.md` like `1-4.md`
+* [MarkDown cheatsheet](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+* [Kakaotalk Open Chat](https://open.kakao.com/o/gY6OBNK)
 
 Members
 -------
