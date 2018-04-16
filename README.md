@@ -22,7 +22,7 @@ Progress
 | Pages      | Name           | Progress  |
 | ---------- |:--------------:| ---------:|
 | 1 ~ 5      | Park Se Hyun   |        0% |
-| 6 ~ 9      | Paeng Jin Wook |       30% |
+| 6 ~ 9      | Paeng Jin Wook |       50% |
 | 10 ~ 14    | Kim Jae Hwan   |        0% |
 | 15 ~ 18    |                |        0% |
 | 19 ~ 23    |                |        0% |
