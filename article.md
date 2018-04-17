@@ -49,7 +49,7 @@ __성당과 시장__
 
 
 
-<!-- The Importance of Having Users -->
+<!-- The Importance of Having Users -->ㅂ
 **3. 사용자가 있다는 것의 중요성**
 ----
 나는 popclient를 넘겨받았다. 동시에 popclient의 사용자들도 넘겨받았다.  
