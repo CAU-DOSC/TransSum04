@@ -23,11 +23,23 @@ Rules
 
 Progress
 --------
+0. Abstract
+1. The Cathedral and the Bazaar
+2. The Mail Must Get Through
+3. The Importance of Having Users
+4. Release Early, Release Often
+5. How Many Eyeballs Tame Complexity
+6. When Is a Rose Not a Rose?
+7. Popclient becomes Fetchmail
+8. Fetchmail Grows Up
+9. A Few More Lessons from Fetchmail
+10. Necessary Preconditions for the Bazaar Style
+11. The Social Context of Open-Source Software
 
-| Pages      | Name           | Progress  |
+| Content    | Name           | Progress  |
 | ---------- |:--------------:| ---------:|
-| 1 ~ 5      | Park Se Hyun   |       30% |
-| 6 ~ 9      | Paeng Jin Wook |       50% |
-| 10 ~ 15    | Kim Jae Hwan   |        0% |
-| 16 ~ 19    |                |        0% |
-| 20 ~ 23    |                |        0% |
+| 0 ~ 2      | Park Se Hyun   |       30% |
+| 3 ~ 4      | Paeng Jin Wook |       50% |
+| 5 ~ 7      | Kim Jae Hwan   |        0% |
+| 8 ~ 9      |                |        0% |
+| 10 ~ 11    |                |        0% |
