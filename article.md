@@ -24,7 +24,7 @@ __목차__
 * 시장 스타일에 필요한 전제 조건
 * 오픈소스 소프트웨어의 사회적 맥락
 
-<!-- 1page end -->
+<!-- Abstract -->
 
 __성당과 시장__
 --------------
@@ -41,4 +41,44 @@ __성당과 시장__
 
 위 글은 프로젝트의 스토리에 관한 내용이다. 나는 이 스토리를 효과적인 오픈소스 개발에 관한 몇 개의 격언을 제안하기 위해 사용할 것이다. 이 모든 것들은 내가 리눅스 세계에서 처음으로 배운 것은 아니지만, 리눅스 세계가 그들에게 특별한 점을 어떻게 제공하는지 보게 될 것이다. 만약 내가 맞는다면, 그들은 리눅스 공동체를 훌륭한 소프트웨어의 샘으로 만드는 것이 무엇인지 정확히 이해할 수 있게 도와 줄 것이며, 아마 여러분들이 스스로 더 생산적으로 될 수 있도록 도울 것입니다.
 
-<!-- 2page end -->
+<!-- The Cathedral and the Bazaar -->
+
+
+
+<!-- The Mail Must Get Through -->
+
+
+
+<!-- The Importance of Having Users -->
+
+
+
+<!-- Release Early, Release Often -->
+
+
+
+<!-- How Many Eyeballs Tame Complexity -->
+
+
+
+<!-- When Is a Rose Not a Rose? -->
+
+
+
+<!-- Popclient becomes Fetchmail -->
+
+
+
+<!-- Fetchmail Grows Up -->
+
+
+
+<!-- A Few More Lessons from Fetchmail -->
+
+
+
+<!-- Necessary Preconditions for the Bazaar Style -->
+
+
+
+<!-- The Social Context of Open-Source Software -->

@@ -1,9 +1,9 @@
 TransSum04
 ===========
-
+* PLEASE `git pull` BEFORE `git push`
 * The Cathedral and the Bazaar
 * Use any text editor
-* File format must be `pages.txt` or `pages.md` like `1-4.md`
+* Edit article.md
 * [MarkDown cheatsheet](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 * [Kakaotalk Open Chat](https://open.kakao.com/o/gY6OBNK)
 
@@ -18,7 +18,7 @@ Members
 
 Rules
 -----
-* Write `<!-- pageX end -->` end of page
+* `<!-- Content -->`
 * `Linus Torvalds` → `리누스 토발즈`
 
 Progress
@@ -36,7 +36,7 @@ Progress
 10. Necessary Preconditions for the Bazaar Style
 11. The Social Context of Open-Source Software
 
-| Content    | Name           | Progress  |
+| Contents   | Name           | Progress  |
 | ---------- |:--------------:| ---------:|
 | 0 ~ 2      | Park Se Hyun   |       30% |
 | 3 ~ 4      | Paeng Jin Wook |       50% |
