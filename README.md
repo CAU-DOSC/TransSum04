@@ -38,8 +38,8 @@ Progress
 
 | Contents   | Name           | Progress  |
 | ---------- |:--------------:| ---------:|
-| 0 ~ 2      | Park Se Hyun   |       30% |
+| 0 ~ 2      | Park Se Hyun   |       50% |
 | 3 ~ 4      | Paeng Jin Wook |      100% |
 | 5 ~ 7      | Kim Jae Hwan   |        0% |
-| 8 ~ 9      |                |        0% |
+| 8 ~ 9      | Kim Chan Il    |        0% |
 | 10 ~ 11    |                |        0% |
