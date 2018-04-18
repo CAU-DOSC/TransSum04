@@ -1,5 +1,5 @@
 __성당과 시장__ (The Cathedral and the Bazaar)
-================
+=============================================
 
 Eric Steven Raymond
 
