@@ -42,4 +42,4 @@ Progress
 | 3 ~ 4      | Paeng Jin Wook |      100% |
 | 5 ~ 7      | Kim Jae Hwan   |      100% |
 | 8 ~ 9      | Kim Chan Il    |      100% |
-| 10 ~ 11    |                |        0% |
+| 10 ~ 11    | Park Min Seo   |      100% |
